@@ -1,0 +1,19 @@
+{
+  "name": "node6-yarn-docker",
+  "version": "1.0.0",
+  "description": "Docker image based on the official node:6 docker image, with Yarn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminmeyghani/node6-yarn-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminmeyghani/node6-yarn-docker/issues"
+  },
+  "homepage": "https://github.com/aminmeyghani/node6-yarn-docker#readme"
+}
